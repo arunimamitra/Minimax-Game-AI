@@ -1,5 +1,5 @@
 
-# This is a JAVA program implementing the minimax algorithm with max cutoff and alpha beta pruning 
+## JAVA program implementing the minimax algorithm with max cutoff and alpha beta pruning 
 
 
 
